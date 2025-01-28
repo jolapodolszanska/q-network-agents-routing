@@ -1,6 +1,6 @@
 # Leveraging Deep Q-Network Agents with Dynamic Routing Mechanisms in Convolutional Neural Networks for Enhanced and Reliable Classification of Alzheimer’s Disease from MRI Scans
 
-This work is part of conference paper _17th International Conference on Agents and Artificial Intelligence_
+This work is part of conference paper _17th International Conference on Agents and Artificial Intelligence 2025_ Porto, Portugal. 
 
 Link to paper: **soon**
 
