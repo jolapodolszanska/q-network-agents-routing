@@ -2,7 +2,7 @@
 
 This work is part of conference paper _17th International Conference on Agents and Artificial Intelligence 2025_ Porto, Portugal. 
 
-Link to paper: **soon**
+Link to paper: https://www.scitepress.org/PublicationsDetail.aspx?ID=2bQwqzLUWkI=&t=1
 
 **Abstract**
 
