@@ -36,4 +36,8 @@ accurate assessment of cerebral structures, such
 as the hippocampus and glial cortex, often affected by
 Alzheimer’s disease.
 
+## References
 
+If you use my code, please cite my work.
+
+Podolszanska, J. (2025). Leveraging Deep Q-Network Agents with Dynamic Routing Mechanisms in Convolutional Neural Networks for Enhanced and Reliable Classification of Alzheimer’s Disease from MRI Scans.
